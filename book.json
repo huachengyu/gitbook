@@ -1,0 +1,18 @@
+{
+"title" : "Gitbook Use",
+"author" : "NewB",
+"description" : "记录博客的各种文章合集",
+"language" : "zh-hans",
+"links" : {
+    "sidebar" : {
+        "Home" : "http://keepbuf.com"
+    }
+},
+"styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "styles/mobi.css",
+    "epub": "styles/epub.css"
+}
+}

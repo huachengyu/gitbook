@@ -9,11 +9,13 @@ for /f "skip=9 tokens=1,2 delims=:" %i in ('netsh wlan show profiles') do  @echo
 1. 列出当前系统用户已经连接过的WIFI的配置文件
 
 * CMD :
+
 ```
 netsh wlan show profiles
 ```
 
 * OUTPUT :
+
 ```
 接口 WLAN 上的配置文件:
 
@@ -31,11 +33,13 @@ netsh wlan show profiles
 2. 循环遍历上面取出来的WIFI连接名字
 
 * CMD :
+
 ```
 for /f "skip=9 tokens=1,2 delims=:" %i in ('netsh wlan show profiles') do  @echo %j | findstr -i -v echo
 ```
 
 * OUTPUT :
+
 ```
  Dlink802
  TP-LINK_4EDC
@@ -44,11 +48,13 @@ for /f "skip=9 tokens=1,2 delims=:" %i in ('netsh wlan show profiles') do  @echo
 3. 根据第二条列出来的WIFI链接名字,查找对应的WIFI配置文件
 
 * CMD : 
+
 ```
 netsh wlan show profiles %j key=clear
 ```
 
 * OUTPUT :
+
 ```
 上面CMD命令中%j替换成Dlink802,就是寻找当前系统下的Dlink802对应的WIFI信息,j%是一个变量,接受第二条命令的输出结果替换.
 

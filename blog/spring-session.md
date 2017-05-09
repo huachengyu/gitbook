@@ -1,3 +1,6 @@
+### Spring分布式Session管理
+@Date 2017.05.07
+
 > 利用spring-session & MySql实现持久化session共享
 
 * WEB应用中很多情况需要对session有统一的管理,现在分布式的情况下,多台机器的访问session更需要一个统一管理的地方,如果自己实现的话工作量会很大.

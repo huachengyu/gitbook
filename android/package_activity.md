@@ -1,4 +1,6 @@
 #### 获取APK的包名(package和activity)
+@Date 2017.04.20
+
 > adb方式
 
 1. 安装此APK到一安卓手机上,并通过USB调试模式连接电脑

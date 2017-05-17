@@ -11,5 +11,6 @@
     - [spring-session解决共享session管理](blog/spring_session.md)
     - [利用cors-filter解决跨域问题](blog/cors_filter.md)
     - [logback自定义Appender和Layout](blog/logback_appender.md)
+    - [Linux通过Anaconda安装管理python](blog/python_install.md)
 * [安卓](android/README.md)
     - [adb命令获取APK包名](blog/package_activity.md)

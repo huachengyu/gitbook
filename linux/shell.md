@@ -89,6 +89,10 @@ grep 'test' jvm.log gc.log
 # 在指定目录下查找所有符合关键字的文件
 grep 'test' /home/admin/ -r -n
 ```
+```
+# -i 不区分大小写查找(默认区分大小写grep)
+grep -i 'pattern1' jvm.log
+```
 
 ```
 # 匹配行向上匹配x

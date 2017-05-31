@@ -14,6 +14,8 @@
     - [Linux通过Anaconda安装管理python](blog/python_install.md)
     - [记一次Java进程突然消失问题](blog/java_process_kill.md)
     - [JVM问题常用排查命令](blog/java_cmd.md)
+    - [Java VM 启动参数详解](blog/jvm_options.md)
+    - [Java内存区域解析](blog/java_heap.md)
 * [安卓](android/README.md)
     - [adb命令获取APK包名](blog/package_activity.md)
 * [Linux](linux/README.md)

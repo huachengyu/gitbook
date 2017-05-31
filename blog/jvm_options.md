@@ -159,6 +159,9 @@
 > -Dfile.encoding=UTF-8
 * 设置文件流编码
 
+> -agentlib:jdwp=transport=dt_socket,address=8000,server=y,suspend=n
+* 开放8000端口,支持远程DEBUG
+
 ---
 
 #### SpringBoot启动参数样例

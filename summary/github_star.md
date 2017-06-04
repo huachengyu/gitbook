@@ -64,3 +64,84 @@
 
 > 他人学习python的记录
 * https://github.com/xxg1413/python
+
+> ChatBotCourse:自己动手做聊天机器人教程
+* https://github.com/warmheartli/ChatBotCourse
+
+> 美团SQLAdvisor:输入SQL，输出索引优化建议
+* https://github.com/Meituan-Dianping/SQLAdvisor
+
+> 聊天机器人的训练语料
+* https://github.com/rustch3n/dgk_lost_conv
+
+> 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
+* https://github.com/shuzheng/zheng
+
+> 小米open-falcon : 互联网企业级监控系统
+* https://github.com/XiaoMi/open-falcon
+
+> Stanford CoreNLP
+* https://github.com/stanfordnlp/CoreNLP
+
+> MySql分库分表中间件,改编自Cobar,结合了Cobar和TDDL的优势
+* https://github.com/brucexx/heisenberg
+
+> MyCAT : 分表分库中间件
+* https://github.com/MyCATApache/Mycat-Server
+
+> JStock is a free stock market software for 36 countries
+* https://github.com/yccheok/jstock
+
+> axios:js中http请求包
+* https://github.com/mzabriskie/axios
+
+> hsweb-framework : 基于SpringBoot&MyBaits快速搭建企业后台管理系统的基础项目
+* https://github.com/hs-web/hsweb-framework
+
+> 阿里云OSS SDK源码
+* https://github.com/aliyun/aliyun-oss-java-sdk
+
+> Turbine实时流低延时高吞吐量的聚合器(汇聚分布式服务的数据)
+* https://github.com/Netflix/Turbine
+
+> Java版本的深度学习框架
+* https://github.com/deeplearning4j/deeplearning4j
+
+> 基于网页游戏学习SQL
+* https://github.com/Audi-1/sqli-labs
+
+> word分词是一个Java实现的分布式的中文分词组件
+* https://github.com/ysc/word
+
+> Java版本的文字转拼音工具包
+* https://github.com/belerweb/pinyin4j
+
+> Java分词工具HanLP
+* https://github.com/hankcs/HanLP
+
+> PayMap是一个使用Java语言集成三方支付的小Demo
+* https://github.com/Martin404/PayMap
+
+> Java版本的竞价框架
+* https://github.com/LMAX-Exchange/disruptor
+
+> Pocsuite: 远程漏洞检测框架
+* https://github.com/knownsec/Pocsuite
+
+> 收集和RTB有关的文章集合
+* https://github.com/wnzhang/rtb-papers
+
+> 基于springMVC+springSecurity3.x+Mybaits3.x的权限系统
+* https://github.com/lanyuancom/lanyuan
+
+> Python爬虫框架scrapy-demo
+* https://github.com/geekan/scrapy-examples
+
+> VIM配置
+* https://github.com/rarezhang/simple_vim_setting
+
+> 在线写MarkDown简历工具
+* https://github.com/geekcompany/DeerResume
+
+> Java版本的Redis Client工具
+* https://github.com/caoxinyu/RedisClient

@@ -103,6 +103,9 @@
 > Pocsuite: 远程漏洞检测框架
 * https://github.com/knownsec/Pocsuite
 
+> Kali Linux -- NetHunter:Bad USB 技术实现流量劫持的功能
+* https://github.com/offensive-security/kali-nethunter
+
 ---
 
 ##### 开源技术集合

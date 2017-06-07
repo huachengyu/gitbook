@@ -106,6 +106,9 @@
 > Kali Linux -- NetHunter:Bad USB 技术实现流量劫持的功能
 * https://github.com/offensive-security/kali-nethunter
 
+> PoisonTap : 将USB设备伪装成网卡进而劫持目标设备的网络流量 
+* https://github.com/samyk/poisontap
+
 ---
 
 ##### 开源技术集合

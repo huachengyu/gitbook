@@ -152,5 +152,18 @@ uniq -c
 netstat -nat|awk  '{print $6}'|sort|uniq -c|sort -rn 
 ```
 
+> top
+
+```
+# 显示PID对应的所有线程占用资源
+top -Hp pid
+```
+
+> printf
+
+```
+# 输出PID对应的十六进制表示
+printf "%x" PID
+```
 
 

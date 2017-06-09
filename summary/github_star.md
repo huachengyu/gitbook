@@ -143,9 +143,6 @@
 > JStock is a free stock market software for 36 countries
 * https://github.com/yccheok/jstock
 
-> axios:js中http请求包
-* https://github.com/mzabriskie/axios
-
 > hsweb-framework : 基于SpringBoot&MyBaits快速搭建企业后台管理系统的基础项目
 * https://github.com/hs-web/hsweb-framework
 
@@ -169,3 +166,15 @@
 
 > 基于springMVC+springSecurity3.x+Mybaits3.x的权限系统
 * https://github.com/lanyuancom/lanyuan
+
+> Vert.x : 事件驱动的高性能处理请求服务端
+* https://github.com/eclipse/vert.x
+
+--- 
+
+##### 前端
+
+> axios:js中http请求包
+* https://github.com/mzabriskie/axios
+
+

@@ -24,3 +24,5 @@
     - [adb命令获取APK包名](linux/shell.md)
 * [Tools](tools/README.md)
     - [IDEA Plugin](tools/idea_plugin.md)    
+* [Algorithm](algorithm/README.md)
+    - [String字符串匹配算法](algorithm/string_match.md) 

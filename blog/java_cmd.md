@@ -1,6 +1,11 @@
 ### JVM问题常用排查命令
 @Date 2017.05.23
 
+> JVM调优问题
+* CPU使用率与Load值偏大 : Thread count以及GC count
+* 关键接口响应时间很慢 : GC time以及GC log中的STW的时间
+* 发生Full GC或者Old CMS GC非常频繁 : 内存泄露
+
 > jps
 
 ```

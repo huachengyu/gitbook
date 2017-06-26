@@ -23,7 +23,7 @@
 * [安卓](android/README.md)
     - [adb命令获取APK包名](blog/package_activity.md)
 * [Linux](linux/README.md)
-    - [adb命令获取APK包名](linux/shell.md)
+    - [Linux常用命令指南](linux/shell.md)
 * [Tools](tools/README.md)
     - [IDEA Plugin](tools/idea_plugin.md)    
 * [Algorithm](algorithm/README.md)

@@ -20,6 +20,8 @@
     - [Java VM 启动参数详解](blog/jvm_options.md)
     - [Java内存区域解析](blog/java_heap.md)
     - [Java的深拷贝与浅拷贝](blog/java_clone.md)
+* [设计模式](design/README.md)
+    - [单例模式](design/singleton_design.md)
 * [安卓](android/README.md)
     - [adb命令获取APK包名](blog/package_activity.md)
 * [Linux](linux/README.md)
@@ -28,3 +30,4 @@
     - [IDEA Plugin](tools/idea_plugin.md)    
 * [Algorithm](algorithm/README.md)
     - [String字符串匹配算法](algorithm/string_match.md) 
+    - [常见排序算法](algorithm/sort.md) 

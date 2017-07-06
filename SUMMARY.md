@@ -22,6 +22,7 @@
     - [Java内存区域解析](blog/java_heap.md)
     - [Java的深拷贝与浅拷贝](blog/java_clone.md)
 * [设计模式](design/README.md)
+    - [设计模式的六大原则](design/principle.md)
     - [单例模式](design/singleton_design.md)
     - [工厂模式](design/factory.md)
 * [安卓](android/README.md)

@@ -97,6 +97,9 @@
 
 ##### 安全
 
+> XSS'OR - Hack with JavaScript
+* https://github.com/evilcos/xssor2
+
 > 类似永恒之蓝的病毒程序
 * https://github.com/bitdust/WamaCry
 

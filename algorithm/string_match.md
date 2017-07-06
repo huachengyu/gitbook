@@ -1,6 +1,8 @@
 #### String字符串匹配算法
 @Date 2017.06.09
 
+> [DEMO代码链接](https://github.com/huachengyu/algorithm-demo/blob/master/src/main/java/com/algorithm/demo/string/StringMatch.java)
+
 > 暴力匹配
 * 时间复杂度O(m * n)
 
@@ -44,7 +46,8 @@
      * @return 匹配字符在长字符串中的位置
      */
     private static int kmpMatch(String originS, String matchedS) {
-        // next 数组各值的含义：代表当前字符之前的字符串中，有多大长度的相同前缀后缀。例如如果next [j] = k，代表j 之前的字符串中有最大长度为k 的相同前缀后缀
+        // next 数组各值的含义：代表当前字符之前的字符串中，有多大长度的相同前缀后缀。
+        // 例如如果next [j] = k，代表j 之前的字符串中有最大长度为k 的相同前缀后缀
 
         char[] originArray = originS.toCharArray();
         char[] matchedArray = matchedS.toCharArray();

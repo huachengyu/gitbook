@@ -23,6 +23,7 @@
     - [Java的深拷贝与浅拷贝](blog/java_clone.md)
 * [设计模式](design/README.md)
     - [单例模式](design/singleton_design.md)
+    - [工厂模式](design/factory.md)
 * [安卓](android/README.md)
     - [adb命令获取APK包名](blog/package_activity.md)
 * [Linux](linux/README.md)

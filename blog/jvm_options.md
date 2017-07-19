@@ -181,8 +181,8 @@
 * 默认会调用Full GC来回收
 
 > -XX:+DisableExplicitGC
-* 禁用Full GC显示调用
-* 会出现OOM：系统各方面性能良好,无Full GC且DirectByteBuffer所占用的空间大于-Xmx分配的空间.
+* 禁用Full GC显示调用(禁用System.GC)
+* 会出现OOM: 当系统各方面性能良好,无Full GC且DirectByteBuffer所占用的空间大于-Xmx分配的空间.
 因为DirectByteBuffer会不断地在Native堆分配空间,它的引用进入了Old区,Old区保存大量的引用,而不能被回收,最终会导致Native堆空间不足
 * 可以通过设置-XX:MaxDirectMemorySize=几十M,使OOM来得更早一些
 

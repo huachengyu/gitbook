@@ -143,6 +143,9 @@
 > MyCAT : 分表分库中间件
 * https://github.com/MyCATApache/Mycat-Server
 
+> Mycat-JCache
+* https://github.com/MyCATApache/Mycat-JCache
+
 > JStock is a free stock market software for 36 countries
 * https://github.com/yccheok/jstock
 
@@ -172,6 +175,12 @@
 
 > Vert.x : 事件驱动的高性能处理请求服务端
 * https://github.com/eclipse/vert.x
+
+> 基于 Spring Cloud 的微服务架构
+* https://github.com/zhangxd1989/spring-boot-cloud
+
+> spring-boot-starter-dubbo
+* https://github.com/teaey/spring-boot-starter-dubbo
 
 --- 
 

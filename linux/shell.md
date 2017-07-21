@@ -162,8 +162,8 @@ top -Hp pid
 > printf
 
 ```
-# 输出PID对应的十六进制表示
-printf "%x" PID
+# 输出TID(线程ID)对应的十六进制表示
+printf "%x" TID
 ```
 
 > date

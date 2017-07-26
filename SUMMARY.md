@@ -21,6 +21,7 @@
     - [Java VM 启动参数详解](blog/jvm_options.md)
     - [Java内存区域解析](blog/java_heap.md)
     - [Java的深拷贝与浅拷贝](blog/java_clone.md)
+    - [JVM堆外内存分析](blog/jvm_off_heap.md)
 * [设计模式](design/README.md)
     - [设计模式的六大原则](design/principle.md)
     - [单例模式](design/singleton_design.md)

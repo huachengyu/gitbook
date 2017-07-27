@@ -2,6 +2,7 @@
 @Date 2017.05.23
 
 > JVM调优问题
+
 * CPU使用率与Load值偏大 : Thread count以及GC count
 * 关键接口响应时间很慢 : GC time以及GC log中的STW的时间
 * 发生Full GC或者Old CMS GC非常频繁 : 内存泄露
@@ -19,7 +20,6 @@ jps -mlvV
 > jstack
 
 ```
-# 
 # 线程的堆栈跟踪，可以得知哪些线程被阻塞或正等待，以便于查找如线程死锁的原因
 jstack pid
 ```

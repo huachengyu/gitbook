@@ -198,3 +198,10 @@ sed -n '/2017-07-16 12:30:00/,/2017-07-16 16:00:00/p' info.log
 # 查看进程的内存占用
 pmap -d pid
 ```
+
+> curl 
+
+```
+# 查看请求的耗时时间
+curl -o /dev/null -s -w "time_connect: %{time_connect}\ntime_starttransfer: %{time_starttransfer}\ntime_total: %{time_total}\n" "域名"
+```

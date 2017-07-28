@@ -42,6 +42,10 @@
 
 > Stanford CoreNLP
 * https://github.com/stanfordnlp/CoreNLP
+
+> DrQA(facebook)
+* https://github.com/facebookresearch/DrQA
+
 ---
 
 ##### Python

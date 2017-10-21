@@ -32,6 +32,7 @@
     - [6.3.IDEA Plugin](summary/idea_plugin.md)  
 * [7.面试相关](interview/README.md)
     - [7.1.校招面试指南](interview/xiaozhao.md)
+    - [7.2.Java服务端面试总结(3年左右)](interview/server.md)
 * [8.黑科技](hack/README.md)
     - [8.1.Windows获取已连接wifi密码](hack/window_wifi_passwd.md)
     - [8.2.安全基础总结](hack/security_base.md)

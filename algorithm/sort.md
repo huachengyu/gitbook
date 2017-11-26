@@ -2,11 +2,14 @@
 @Date 2016.06.22
 
 > 冒泡排序
+
 * 时间复杂度O(n²)
 * 循环遍历,位置相邻比较
 * [DEMO代码链接](https://github.com/huachengyu/algorithm-demo/blob/master/src/main/java/com/algorithm/demo/sort/BubbleSort.java)
 
+
 > 快速排序
+
 * 基于分治模式处理
 * 平均时间 : O(n log(n))
 * 最坏情况 : O(n²)

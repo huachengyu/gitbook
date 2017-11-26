@@ -6,7 +6,9 @@
 * Nginx + Php 服务,遇到访问网站出现file not found的错误,查看Nginx日志,发现以下错误日志:
 
 ```
-2016/05/19 23:28:43 [error] 28239#0: *27 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: ..........., server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "........"
+2016/05/19 23:28:43 [error] 28239#0: *27 FastCGI sent in stderr: 
+"Primary script unknown" while reading response header from upstream, client: ..........., 
+server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "........"
 ```
    
 > 基本环境

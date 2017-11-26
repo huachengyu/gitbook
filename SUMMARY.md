@@ -27,6 +27,7 @@
     - [5.3.Logback自定义Appender和Layout](experience/logback_appender.md)
     - [5.4.Linux通过Anaconda安装管理Python](experience/python_install.md)
     - [5.5.Linux下安装Scrapy](experience/scrapy_install.md)
+    - [5.6.Nginx报错Primary script unknown](experience/primary_script_unknow.md)
 * [6.知识总结](summary/README.md)
     - [6.1.阿里技术大会总结](summary/ali_nasa.md) 
     - [6.2.GitHub关注记录](summary/github_star.md)

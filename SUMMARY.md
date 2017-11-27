@@ -51,5 +51,4 @@
 * [10.Git](git/README.md)
     - [10.1.Git命令](git/commond.md)
 * [11.工具](tools/README.md)
-    - [11.1.IDEA教程](tools/Intellij IDEA教程.pdf)
-    - [11.2.内网穿透神器(ngrok)](tools/ngrok.md)
+    - [11.1.内网穿透神器(ngrok)](tools/ngrok.md)

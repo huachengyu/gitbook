@@ -47,7 +47,7 @@
     - [8.1.Windows获取已连接wifi密码](hack/window_wifi_passwd.md)
     - [8.2.安全基础总结](hack/security_base.md)
 * [9.安卓](android/README.md)
-    - [9.1.adb命令获取APK包名](experience/package_activity.md)
+    - [9.1.adb命令获取APK包名](android/package_activity.md)
 * [10.Git](git/README.md)
     - [10.1.Git命令](git/commond.md)
 * [11.工具](tools/README.md)

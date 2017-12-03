@@ -50,42 +50,47 @@ $ git stage
 $ git reset
 ```
 
-##### 6.添加到远程仓库
+##### 6.本地仓库关联远程仓库
 ```
-$ git remote add origin
+$ git remote add origin git@github.com:huachengyu/common-tool.git
 ```
 
-##### 7.提交变更到暂存区
+#### 7.本地仓库取消关联远程仓库
+```
+git remote remove origin
+```
+
+##### 8.提交变更到暂存区
 ```
 $ git commit -m "本次提交log"
 ```
 
-##### 8.提交整个git所有变更（尽量少用）
+##### 9.提交整个git所有变更（尽量少用）
 ```
 $ git commit -a -m "本次提交log"  
 ```
 
-##### 9.把本地更新到远程
+##### 10.把本地更新到远程
 ```
 $ git push 
 ```
 
-##### 10.把远程代码merge到本地
+##### 11.把远程代码merge到本地
 ```
 $ git pull origin master
 ```
 
-##### 11.把远程代码最新版本获取到本地
+##### 12.把远程代码最新版本获取到本地
 ```
 $ git fetch
 ```
 
-##### 12.删除远程仓库固定文件
+##### 13.删除远程仓库固定文件
 ```
 $ git rm
 ```
 
-##### 13.回滚固定head版本
+##### 14.回滚固定head版本
 ```
 $ git reset --hard HEAD
 ```

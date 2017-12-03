@@ -123,3 +123,11 @@ $ git merge 分支名
 ```
 $ git branch -d 分支名
 ```
+
+> 问题解决
+
+##### 1.fatal: refusing to merge unrelated histories
+
+* git pull命令时,遇到上述错误,原因是Git认为远程和本地的项目不是同一个
+* 使用以下命令解决此问题
+* git pull origin master --allow-unrelated-histories

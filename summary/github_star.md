@@ -123,6 +123,9 @@
 > Alibaba开源代码
 * https://github.com/alibaba
 
+> rocketMQ
+* https://github.com/apache/rocketmq
+
 > 基于Spring Boot/Spring Security/JWT的REST服务安全认证
 * https://github.com/jonsychen/rest-security-demo
 

@@ -68,6 +68,12 @@ awk -F: jvm.log
 cat jvm.log  | grep -v "result" | awk  'BEGIN{RS="2017/05/23"} { split($NF,a,"m"); if(a[1]>1000) {print $0;} } END{}'
 ```
 
+```
+# 统计访问前X(10)的IP地址
+
+awk '{print $1}' |sort|uniq -c|sort -nr |head -10 access_log
+```
+
 > grep 
 
 ```

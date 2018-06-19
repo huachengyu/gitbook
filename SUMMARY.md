@@ -11,6 +11,7 @@
     - [1.4.2.Java VM 启动参数详解](java/jvm/jvm_options.md)
     - [1.4.3.Java内存区域解析](java/jvm/java_heap.md)
     - [1.4.5,JVM堆外内存分析](java/jvm/jvm_off_heap.md)
+    - [1.4.6,Java并发专题](java/java_con.md)
 * [2.设计模式](design/README.md)
     - [2.1.设计模式的六大原则](design/principle.md)
     - [2.2.单例模式](design/singleton_design.md)

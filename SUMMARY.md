@@ -35,6 +35,7 @@
     - [5.8.Caused by: org.apache.ibatis.binding.BindingException: Parameter ‘__frch_callRecord_0’ not found.](experience/mbatis_ex_1.md)
     - [5.9.Mbatis批量插入代码](experience/mbatis_ex_2.md)
     - [5.10.Mbatis if 判断的坑](experience/mbatis_ex_3.md)
+    - [5.11.影响线程创建的因素](experience/java_thread.md)
 * [6.知识总结](summary/README.md)
     - [6.1.阿里技术大会总结](summary/ali_nasa.md) 
     - [6.2.GitHub关注](summary/github_star.md)

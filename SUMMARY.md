@@ -42,6 +42,7 @@
     - [6.3.IDEA Plugin](summary/idea_plugin.md)
     - [6.4.博客关注](summary/blog_star.md)
     - [6.5.网址](summary/www.md)
+    - [6.5.Docker操作](summary/docker.md)
 * [7.面试相关](interview/README.md)
     - [7.1.校招面试指南](interview/xiaozhao.md)
     - [7.2.Java服务端面试总结(3年左右)](interview/server.md)

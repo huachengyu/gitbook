@@ -8,14 +8,5 @@
     <option name="name" value="default" />
     <option name="pathToConfigFileJava" value="F:/work/ali-code-style.xml" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="D:\dev\Program\apache-maven-3.3.9\.m2\repository" />
-        <option name="mavenHome" value="F:/dev/apache-maven-3.3.9" />
-        <option name="userSettingsFile" value="F:\dev\apache-maven-3.3.9\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectRootManager" version="2" default="true" />
 </project>

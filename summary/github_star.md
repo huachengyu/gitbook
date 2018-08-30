@@ -162,6 +162,9 @@ https://github.com/alipay/sofa-rpc
 
 ###### 框架
 
+> 后端架构师技术图谱(重点推荐-技术栈全)
+https://github.com/xingshaocheng/architect-awesome
+
 > 基于Spring Boot/Spring Security/JWT的REST服务安全认证
 https://github.com/jonsychen/rest-security-demo
 

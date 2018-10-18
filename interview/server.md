@@ -14,16 +14,15 @@
 4. session和cookie的区别和联系，session的生命周期，多个服务部署时session管理。
 5. Java中的队列都有哪些，有什么区别。
 6. Java的内存模型以及GC算法
-7. Java7、Java8的新特性(baidu问的,好BT)
-8. Java数组和链表两种结构的操作效率，在哪些情况下(从开头开始，从结尾开始，从中间开始)，哪些操作(插入，查找，删除)的效率高
-9. Java内存泄露的问题调查定位：jmap，jstack的使用等等
-10. java中int类型是多少位，并且推理int的取值范围。
+7. Java数组和链表两种结构的操作效率，在哪些情况下(从开头开始，从结尾开始，从中间开始)，哪些操作(插入，查找，删除)的效率高
+8. Java内存泄露的问题调查定位：jmap，jstack的使用等等
+9. java中int类型是多少位，并且推理int的取值范围。
 int在4位，一位是8byte，那么int一共占32字节。
 int的取值范围在－231 —— 231－1 这个范围内，而最终这个范围的计算方式，就要看原码和补码的计算了。
 [参考](https://wenku.baidu.com/view/a44f2e55227916888486d7e6.html)
-11. java中forname的作用和用法
+10. java中forname的作用和用法
 使用 Class 的静态 forName() 方法实现动态加载类，具体应用场景需要看设计而定，一般都是对应着设计模式为了可扩展可伸缩而使用
-12. java反射的原理，通过反射可以访问类的私有方法么？[参考](http://www.cnblogs.com/forlina/archive/2011/06/21/2085849.html)
+11. java反射的原理，通过反射可以访问类的私有方法么？[参考](http://www.cnblogs.com/forlina/archive/2011/06/21/2085849.html)
 
 #### 二.框架
 1. struts1和struts2的区别
